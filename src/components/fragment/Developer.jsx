@@ -12,7 +12,7 @@ const Developer = () => {
                 <div className="Developer-profileCard">
                     <img src={AvatarImage} alt="Profile"/>
                     <div className={"Card-details"}>
-                        <h3>Vishal Singh</h3>
+                        <h3>Dhruvi Desai</h3>
                         <p>Full Stack developer</p>
                         <p>Competitive Coder</p>
                     </div>
@@ -25,19 +25,19 @@ const Developer = () => {
                     <p>I have a keen interest in developing projects, whenever I want to learn something new.</p>
                     <p>And a blogger.</p>
                     <div className="Card-btn">
-                        <IconButton target={"_blank"}  href={"https://www.facebook.com/vishal.kld"} title={"vishal.kld"}>
+                        <IconButton target={"_blank"}  href={"https://www.facebook.com/dhruvi.kld"} title={"dhruvi.kld"}>
                             <Facebook/>
                         </IconButton>
-                        <IconButton target={"_blank"} href={"https://twitter.com/Vishal_kld"}  title={"Vishal_kld"}>
+                        <IconButton target={"_blank"} href={"https://twitter.com/dhruvi_kld"}  title={"dhruvi_kld"}>
                             <Twitter/>
                         </IconButton>
-                        <IconButton target={"_blank"} href={"https://www.linkedin.com/in/vishalsingh-/"}  title={"vishalsingh-"}>
+                        <IconButton target={"_blank"} href={"https://www.linkedin.com/in/dhruvidesai-/"}  title={"dhruvidesai-"}>
                             <LinkedIn/>
                         </IconButton>
-                        <IconButton target={"_blank"} href={"https://www.instagram.com/vishalsingh023/"}  title={"vishalsingh023"}>
+                        <IconButton target={"_blank"} href={"https://www.instagram.com/dhruvidesai023/"}  title={"dhruvidesai023"}>
                             <Instagram/>
                         </IconButton>
-                        <IconButton target={"_blank"} href={"https://vishal.thetechnician.in/"}  title={"Web Portfolio"}>
+                        <IconButton target={"_blank"} href={"https://dhruvi.thetechnician.in/"}  title={"Web Portfolio"}>
                             <Portrait/>
                         </IconButton>
                     </div>
